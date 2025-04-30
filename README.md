@@ -19,26 +19,32 @@ Sumber data: Adapun sumber data menggunakan <a href="https://github.com/dicoding
 
 Setup environment:
 
+Buka terminal atau PowerShell. Kemudian buat sebuah folder baru bernama proyek_attrition_rate dengan menjalankan perintah berikut.
 ```
 mkdir proyek_attrition_rate
 
 ```
+Kemudian pindah ke folder terbaru tersebut menggunakan perintah berikut.
 ```
 cd proyek_attrition_rate
 
 ```
+Kita buat sebuah virtual environment dengan menjalankan perintah berikut.
 ```
 pipenv install
 
 ```
+Aktifkan virtual environment dengan menjalankan perintah berikut.
 ```
 pipenv shell
 
 ```
+Instal semua library yang dibutuhkan menggunakan perintah berikut.
 ```
 pip install numpy pandas scipy matplotlib seaborn jupyter sqlalchemy 
 
 ```
+Buka jupyter-notebook dengan menjalankan perintah berikut.
 ```
 jupyter-notebook .
 
