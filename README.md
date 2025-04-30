@@ -23,6 +23,27 @@ Setup environment:
 mkdir proyek_attrition_rate
 
 ```
+```
+cd proyek_attrition_rate
+
+```
+```
+pipenv install
+
+```
+```
+pipenv shell
+
+```
+```
+pip install numpy pandas scipy matplotlib seaborn jupyter sqlalchemy 
+
+```
+```
+jupyter-notebook .
+
+```
+
 
 ## Business Dashboard
 
