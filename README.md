@@ -11,7 +11,7 @@ Tingginya attrition rate (rasio jumlah karyawan yang keluar dengan total karyawa
 
 ### Cakupan Proyek
 
-Untuk menjawab permasalahan bisnis tersebut, kita akan membuat Business Dashboard untuk mengetahui faktor-faktor penyebab permasalahan tersebut. <bold>Proyek ini dilakukan dengan dua tools, yaitu python dan metabase</bold>. Dalam python dilakukan data preparation/ data cleaning kemudian untuk visualisasi dilakukan di Metabase.
+Untuk menjawab permasalahan bisnis tersebut, kita akan membuat Business Dashboard untuk mengetahui faktor-faktor penyebab permasalahan tersebut. ***Proyek ini dilakukan dengan dua tools, yaitu python dan metabase***. Dalam python dilakukan data preparation/ data cleaning kemudian untuk visualisasi dilakukan di Metabase.
 
 ### Persiapan
 
