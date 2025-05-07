@@ -73,7 +73,7 @@ Berdasarkan dashboard yang telah dibuat dan analisis yang telah dilakukan, dapat
 - Karyawan resign paling banyak dari jenis pekerjaan yang labroratory technisian
 - Karyawan yang resign banyak merasa kurang puas terhadap lingkungan kerjanya
 
-### Rekomendasi Action Items (Optional)
+### Rekomendasi Action Items
 
 Oleh karena itu, saya merekomendasikan perusahaan melakukan hal-hal sebagai berikut:
 
