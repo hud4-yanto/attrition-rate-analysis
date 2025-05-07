@@ -61,7 +61,7 @@ Dalam business dashboard yang telah dibuat, terdapat beberapa visualisasi yang m
 - Kategori gaji bulanan yang didapatkan karyawan yang resign 
 - Bar chart dari kepuasan karyawan yang resign terhadap relation, environtment, job, dan work-life balance 
 
-Adapun dashboard dapat dilihat pada link <a href="http://localhost:3000/public/dashboard/c7c86f9f-91c2-4521-94e5-c104caf665b3">berikut </a>
+Adapun hasil dashboard dapat dilihat pada gambar "Nur Huda Riyantoni - Dashboard.jpeg"
 
 ## Conclusion
 
