@@ -1,4 +1,4 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
+# Proyek: Menyelesaikan Permasalahan Human Resource Perusahaan Edutech
 
 ## Business Understanding
 
